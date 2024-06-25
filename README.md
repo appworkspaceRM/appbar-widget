@@ -18,6 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 # AppBar Widget
 
 AppBar adalah widget yang sering digunakan pada Widget Scaffold pada properti atau named argument pada appBar:. penggunaan properti atau name argument masih banyak yang bisa di manfaatkan untuk membuat sebuah AppBar menjadi sesuai yang diinginkan.
+![app_bar](https://github.com/appworkspaceRM/appbar-widget/assets/135511281/d7c0d1c9-c6a5-4e78-a14f-db0ef627f77e)
 
 pada bagian atas sebuah aplikasi terdapat beberapa kategori seperi gambar di atas.
 
@@ -87,3 +88,4 @@ class MyApp extends StatelessWidget {
   }
 }
 ```
+![code-snapshot](https://github.com/appworkspaceRM/appbar-widget/assets/135511281/dcd574c4-5c4b-4d2d-9696-8a76665141d4)
